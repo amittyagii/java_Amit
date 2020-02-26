@@ -1,5 +1,5 @@
-class fact{
-PSVM(String arg[]){
-sop("New");
+class Fact{
+public static void main(String arg[]){
+System.out.println("New");
 }
 }
